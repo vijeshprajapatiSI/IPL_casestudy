@@ -1,0 +1,6 @@
+@IPL_HostAddress = http://localhost:5105
+
+GET {{IPL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
